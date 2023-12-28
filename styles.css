@@ -1,0 +1,43 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color:#9EC8B9;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Rubik Doodle Shadow', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 6rem;
+  color: #092635;
+}
+
+p {
+  font-size: 2rem;
+  color: #092635;
+  font-family: 'Rubik Doodle Shadow', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+
+p.about {
+  font-size: 1rem;
+  font-family: 'Rubik Doodle Shadow';
+  text-align: center;
+ color: #092635;
+
+
+}
